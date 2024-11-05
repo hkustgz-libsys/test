@@ -1,0 +1,135 @@
+﻿Range Group #(DO NOT CHANGE),Index in Range Group(DO NOT CHANGE),Range #(DO NOT CHANGE),Range Name,Start Call Number 1,End Call Number 1,Location 1,Start Call Number 2,End Call Number 2,Location 2,Etc
+0,0,215,Reference,*,*,Reference
+0,0,217,100 Good Titles,*,*,100 Good Titles
+0,0,220,New Arrivals,PN0.,ZZ999.,4th Floor Exhibition Shelf
+0,0,227,
+0,0,229,New Arrivals,A0.,PM9999.,4th Floor Exhibition Shelf
+1,0,195,1,AC1.,B2430. F724 M4,4th Floor Book Collection
+2,0,45,2,B2430. F724 M5,BF637. S8 J67127 2022,4th Floor Book Collection
+2,1,46,3,BF637. S8 K3787 2018,BR65. A63,4th Floor Book Collection
+2,2,47,4,BR65. A64,D210. P75 2015,4th Floor Book Collection
+2,3,48,5,D210. P75 2020,DD999.,4th Floor Book Collection
+2,4,49,6,DE1.,DS110. D2,4th Floor Book Collection
+2,5,50,7,DS110. D3,DS758.23 Z49 A2 2015 V.4,4th Floor Book Collection
+2,6,51,8,DS758.23 Z49 A2 2015 V.5,E302. J44 V.13,4th Floor Book Collection
+2,7,52,9,E302. J44 V.16,GB661.2 P36 2019,4th Floor Book Collection
+6,0,67,10,GN281. B438 2022,GV1785. P265 L46 2019,4th Floor Book Collection
+6,1,68,11,GE190. C6 C45 2016,GV9999.,4th Floor Book Collection,A0.,GT3911.77 P38 2017,Oversize Book Collection
+7,0,84,12,H22.,HB99.5 A63 2001,4th Floor Book Collection
+7,1,85,13,HB99.5 F8713 1997,HB195. C693 2015,4th Floor Book Collection
+7,2,86,14,HB195. K57 2007,HB2082. L36,4th Floor Book Collection
+7,3,87,15,HB2085. A3,HC79. H53 G38 2021,4th Floor Book Collection
+7,4,88,16,HC79. H53 G74 2018,HC412. H83 2018,4th Floor Book Collection
+7,5,89,17,HC412. I58 2017,HC1060.,4th Floor Book Collection
+7,6,102,18,HD21.,HD30.28 G72 1995,4th Floor Book Collection
+7,7,103,19,HD30.28 G72 1995 C.2,HD38.5 M67 2018,4th Floor Book Collection
+7,8,104,20,HD38.5 P343 2020,HD57.7 P666 2002,4th Floor Book Collection
+7,9,105,21,HD57.7 P69 2019,HD58.82 B63 2019,4th Floor Book Collection
+7,10,106,22,HD58.82 B73 2013,HD61. H336 2022,4th Floor Book Collection
+7,11,107,23,HD61. H56 2001,HD62.4 S73 2018,4th Floor Book Collection
+7,12,108,24,HD62.4 I39 2002,HD69. P75 H3856 2016,4th Floor Book Collection
+7,13,109,25,HD69. P75 H434 2016,HD2092. S63 1986A,4th Floor Book Collection
+7,14,114,26,HD2093. B732021,HD5724. W6254 2006,4th Floor Book Collection
+7,15,115,27,HD5724. W64185 2001,HD9502. A2 B876 2019,4th Floor Book Collection
+15,0,82,28,HD9502. A2 A324 2011,HD9999. U53,4th Floor Book Collection
+15,1,83,29,HE11.,HE9878. A4,4th Floor Book Collection
+16,0,33,30,HF54.5,HF3834. G87 2021,4th Floor Book Collection
+16,1,34,31,HF3834. W459 2016,HF5415.5 G878 2000,4th Floor Book Collection
+16,2,35,32,HF5415.5 D35 2021,HF5549. W4839 2022,4th Floor Book Collection
+16,3,36,33,HF5449. X56 2020,HF6178.,4th Floor Book Collection
+16,4,37,34,HG1.,HG1285. L58 V.2,4th Floor Book Collection
+16,5,38,35,HG1285. L66 2013,HG4026. T74,4th Floor Book Collection
+16,6,39,36,HG4026. V36 2008,HG4530.,4th Floor Book Collection
+16,7,40,37,HG4532.,HG9881.,4th Floor Book Collection
+16,8,41,38,HJ10.3,HM851. L55198 2022,4th Floor Book Collection
+16,9,42,39,HM851. L5523127 2023,HQ4515. M864127 2023,4th Floor Book Collection
+16,10,43,40,HS61.,HT1782.,4th Floor Book Collection
+16,11,44,41,HV11.,HX915.,4th Floor Book Collection
+16,12,110,42,JA66.,JF2112. C3 G53 2020,4th Floor Book Collection
+16,13,111,43,JK31. S38 2002,JZ6385.,4th Floor Book Collection
+16,14,112,44,K23.,KZD4050.,4th Floor Book Collection
+16,15,113,45,L68. N535,ML3757.,4th Floor Book Collection
+24,0,116,46,N34.,NB623. B9 P3613 2020,4th Floor Book Collection
+24,1,117,47,NB623. C3 A2 2002,NX798. F78 2014,4th Floor Book Collection,HA37. E92 H35 1997,NX503.7 H37 2029,Oversize Book Collection
+25,0,96,48,P26. G635,PA3681. C5 G8 2018 V.4,4th Floor Book Collection
+25,1,97,49,PA3681. C5 N53 2019,PG3328. D628517 2013,4th Floor Book Collection
+26,0,90,50,PG3328. F7 V.1,PL2265. A62,4th Floor Book Collection
+26,1,91,51,PL2265. A63,PL2978. H78,4th Floor Book Collection
+26,2,92,52,PL2929. A4,PN1892. P66 2005,4th Floor Book Collection
+26,3,93,53,PN1892. Z473 1988A,PN6737. M66,4th Floor Book Collection
+26,4,94,54,PQ103.,PR447.,4th Floor Book Collection
+26,5,95,55,PR448. I58,PR4624.,4th Floor Book Collection
+26,6,126,56,PR4624. A2,PR9799.,4th Floor Book Collection
+26,7,127,57,PS25.,PS3559. R8 W67127 2018 V.4,4th Floor Book Collection
+26,8,128,58,PS3560. A534 V5 1982A,PZ9999.,4th Floor Book Collection
+26,9,129,59
+26,10,130,60,Q1. N23,Q175. P7712 2000,4th Floor Book Collection
+26,11,131,61,Q175. P834 1996,Q375.,4th Floor Book Collection
+26,12,132,62,QA1.,QA75.5 N49 2002,4th Floor Book Collection
+26,13,133,63,QA75.5 R494 1999,QA76.63 E47 1996,4th Floor Book Collection
+26,14,134,64,QA76.63 H36 V.1,QA76.76 A65,4th Floor Book Collection
+26,15,135,65,QA76.76 A65 A647 2018 V.1,QA76.76 R42 K4712 2013,4th Floor Book Collection
+26,16,136,66,QA76.76 R44,QA76.9 A25,4th Floor Book Collection
+26,17,137,67,QA76.9 A25 T55 2000,QA76.9 D314 A84 2017,4th Floor Book Collection
+26,18,138,68,QA76.9 D32 A86 2004,QA76.9 H85 I596 1997 V2,4th Floor Book Collection
+26,19,139,69,QA76.9 H85,QA76.95,4th Floor Book Collection
+36,0,140,70,QA90.,QA241. S373 1995,4th Floor Book Collection
+36,1,141,71,QA241. S44 2001,QA274.2 R423 1997,4th Floor Book Collection
+37,0,21,72,QA274.2 S77757 2007,QA297.,4th Floor Book Collection
+37,1,22,73,QA297.4,QA377. H363 2016 PT.2,4th Floor Book Collection
+37,2,23,74,QA377. H56 2002,QA564. F78 2006,4th Floor Book Collection
+37,3,24,75,QA564. G35 2017 V.1,QA613.,4th Floor Book Collection
+37,4,25,76,QA613.2,QB474.,4th Floor Book Collection
+37,5,26,77,QB475.,QC20.7 G76 T49 2017,4th Floor Book Collection
+37,6,27,78,QC20.7 G76 Z44 2016,QC174.17 M35,4th Floor Book Collection
+37,7,28,79,QC174.17 P27,QC415. B83 1995,4th Floor Book Collection
+37,8,29,80,QC415. B83 1995 C.2,QC861.3,4th Floor Book Collection
+37,9,30,81,QC863.4,QC997.,4th Floor Book Collection
+37,10,31,82,QD1.,QD262. S54 2013,4th Floor Book Collection
+37,11,32,83,QD262. S65 2017,QD947.,4th Floor Book Collection
+37,12,118,84,QE39.,QH324.2 R33 2020,4th Floor Book Collection
+37,13,119,85,QH324.2 R39 2006,QH541.15 E19 R56 2020,4th Floor Book Collection
+37,14,120,86,QH541.15 E19 W653 2016,QK989.,4th Floor Book Collection
+37,15,121,87,QL26.,QP82.2 E43 B4 1985,4th Floor Book Collection
+37,16,122,88,QP82.2 E43 C73 2007,QP514. T48,4th Floor Book Collection
+37,17,123,89,QP519.7,QR502.,4th Floor Book Collection
+37,18,124,90,R61.,RC45.,4th Floor Book Collection
+37,19,125,91,RC46.,SK113.,4th Floor Book Collection,PE2913. L55 V.2,SF996.5 S57 2024,Oversize Book Collection
+47,0,17,113,TS155. S7824 2002 V.2,ZA4460.,4th Floor Book Collection,T15. B53 2014,ZZ9999.,Oversize Book Collection
+47,1,18,112,TP248.65 F66 M53,TS155. S7824 2002,4th Floor Book Collection
+47,2,19,111,TP1.,TP248.65 F66 M4,4th Floor Book Collection
+47,3,20,110,TL1.,TN9999.,4th Floor Book Collection
+47,4,142,109,TK7876. R65,TK9999.,4th Floor Book Collection
+47,5,143,108,TK7871.674 S46,TK7876. R5,4th Floor Book Collection
+47,6,144,107,TK5105.888 5 J83,TK7871.674 S3,4th Floor Book Collection
+47,7,145,106,TK5105.5 O633,TK5105.888 5 J7,4th Floor Book Collection
+47,8,146,105,TK5103.25 A14,TK5105.5 O5,4th Floor Book Collection
+47,9,147,104,TK5101. A1,TK5103.25  A137 2020,4th Floor Book Collection
+52,0,63,103L,TK2551. P2,TK3148. Z3,4th Floor Book Collection
+52,1,64,102L,TK5.,TK2551. P1,4th Floor Book Collection
+53,0,154,103S,TK3148. Z4,TK4660. J38 2003,4th Floor Book Collection
+53,1,155,102S,TJ808. Z43,TK4.,4th Floor Book Collection
+54,0,59,101,TJ211.3,TJ808. Z3,4th Floor Book Collection
+54,1,60,100,TG1.,TJ211.28 Z999,4th Floor Book Collection
+54,2,61,99,TD1.,TF9999.,4th Floor Book Collection
+54,3,62,98,TA775. S9,TC9999.,4th Floor Book Collection
+54,4,148,97,TA455. P58 W,TA775. S8,4th Floor Book Collection
+54,5,149,96,TA417.3 I58 2011,TA455. P58 V999,4th Floor Book Collection
+54,6,150,95,TA340. H35,TA417.3 I58 2009,4th Floor Book Collection
+54,7,151,94,TA5.,TA340. H34 2020,4th Floor Book Collection
+54,8,152,93,T58.6 H18 2000,T9999.,4th Floor Book Collection
+54,9,153,92,T6.,T58.6 H18 1998,4th Floor Book Collection
+199,0,196,
+199,1,197,
+199,2,198,
+199,3,199,
+199,4,200,
+199,5,201,
+199,6,202,
+199,7,203,
+199,8,204,
+199,9,205,
+199,10,206,
+199,11,207,
+199,12,208,
+199,13,209,
